@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=80bdff&height=120&text=I'm%20Seungeun&animation=&fontColor=001442&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=80bdff&height=120&text=Seungeun&animation=&fontColor=001442&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ♥ </h2>  

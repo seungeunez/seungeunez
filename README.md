@@ -17,7 +17,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://seungeunez.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://seungeunez.tistory.com"> </a>
+    <div align= "left"> <a href=https://seungeunez.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://seungeunez.tistory.com"> </a>
       </div>
     <br> 
     <div align= "center">  </div> 

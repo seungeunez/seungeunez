@@ -8,7 +8,6 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center">
-        <img src="https://img.shields.io/badge/C%23?style=for-the-badge&logo=C%2B%2B&logoColor=white">
     </div>
     </div>
     <div style="text-align: left;">
